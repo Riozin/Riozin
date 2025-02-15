@@ -16,3 +16,7 @@
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+## Sobre Mmim 
+
+Nos ultimos anos começei a apreciar toda a área de Tecnlogia e o que ela tem a oferecer, o funcionamento dos sites, dos servidores, e por causa disso, resolvi estudar por contra própria para entender como esses sistemas funcionam e em seguida desenvolver minha primeira aplicação. No ano de 2025, começei a cursar Análise e Desenolvimento de Sistemas na UNINTER, e busco aperfeicoar meus conhecimentos neste ano!
