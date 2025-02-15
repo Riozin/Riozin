@@ -1,5 +1,19 @@
 ### Olá! Eu sou o Samuel! 👋 
 
+
+## Sobre Mim ✏️
+
+Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece.<br/>
+Fiquei fascinado com o funcionamento de sites, servidores e sistemas em geral, o que me motivou<br/>
+a estudar por conta própria para entender como essas tecnologias funcionam. Com esse conhecimento,<br/>
+dei os primeiros passos para desenvolver minha própria aplicação. Em 2025, iniciei o curso de Análise<br/>
+e Desenvolvimento de Sistemas na UNINTER, e desde então tenho buscado aprimorar meus conhecimentos,<br/>
+dedicando-me a aprofundar cada vez mais minha compreensão nessa área tão dinâmica e desafiadora
+
+
+
+<br/>
+
 ![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,6 +31,3 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-## Sobre Mmim 
-
-Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece. Fiquei fascinado com o funcionamento de sites, servidores e sistemas em geral, o que me motivou a estudar por conta própria para entender como essas tecnologias funcionam. Com esse conhecimento, dei os primeiros passos para desenvolver minha própria aplicação. Em 2025, iniciei o curso de Análise e Desenvolvimento de Sistemas na UNINTER, e desde então tenho buscado aprimorar meus conhecimentos, dedicando-me a aprofundar cada vez mais minha compreensão nessa área tão dinâmica e desafiadora
