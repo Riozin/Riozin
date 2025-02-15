@@ -19,4 +19,4 @@
 
 ## Sobre Mmim 
 
-Nos ultimos anos começei a apreciar toda a área de Tecnlogia e o que ela tem a oferecer, o funcionamento dos sites, dos servidores, e por causa disso, resolvi estudar por contra própria para entender como esses sistemas funcionam e em seguida desenvolver minha primeira aplicação. No ano de 2025, começei a cursar Análise e Desenolvimento de Sistemas na UNINTER, e busco aperfeicoar meus conhecimentos neste ano!
+Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece. Fiquei fascinado com o funcionamento de sites, servidores e sistemas em geral, o que me motivou a estudar por conta própria para entender como essas tecnologias funcionam. Com esse conhecimento, dei os primeiros passos para desenvolver minha própria aplicação. Em 2025, iniciei o curso de Análise e Desenvolvimento de Sistemas na UNINTER, e desde então tenho buscado aprimorar meus conhecimentos, dedicando-me a aprofundar cada vez mais minha compreensão nessa área tão dinâmica e desafiadora
