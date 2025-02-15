@@ -3,7 +3,7 @@
 
 ## Sobre Mim ✏️
 
-Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece.<br/>
+Olá, seja bem vindo ao meu github. Vou falar um pouco sobre mim. Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece.<br/>
 Fiquei fascinado com o funcionamento de sites, servidores e sistemas em geral, o que me motivou<br/>
 a estudar por conta própria para entender como essas tecnologias funcionam. Com esse conhecimento,<br/>
 dei os primeiros passos para desenvolver minha própria aplicação. Em 2025, iniciei o curso de Análise<br/>
