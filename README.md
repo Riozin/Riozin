@@ -3,9 +3,9 @@
 
 ## Sobre Mim ✏️
 
--Olá, seja bem vindo ao meu github. Vou falar um pouco sobre mim. 
--Estudante de Análise e Desenolvimento de Sistemas
--Conhecimento de tecnlogias como Java, Java Script, Node Js, Python e C#
+-Olá, seja bem vindo ao meu github. Vou falar um pouco sobre mim. <br>
+-Estudante de Análise e Desenolvimento de Sistemas <br>
+-Conhecimento de tecnlogias como Java, Java Script, Node Js, Python e C# <br>
 
 
 <br/>
