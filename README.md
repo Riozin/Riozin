@@ -3,13 +3,9 @@
 
 ## Sobre Mim ✏️
 
-Olá, seja bem vindo ao meu github. Vou falar um pouco sobre mim. Nos últimos anos, comecei a me interessar pela área de Tecnologia e por tudo o que ela oferece.<br/>
-Fiquei fascinado com o funcionamento de sites, servidores e sistemas em geral, o que me motivou<br/>
-a estudar por conta própria para entender como essas tecnologias funcionam. Com esse conhecimento,<br/>
-dei os primeiros passos para desenvolver minha própria aplicação. Em 2025, iniciei o curso de Análise<br/>
-e Desenvolvimento de Sistemas na UNINTER, e desde então tenho buscado aprimorar meus conhecimentos,<br/>
-dedicando-me a aprofundar cada vez mais minha compreensão nessa área tão dinâmica e desafiadora
-
+-Olá, seja bem vindo ao meu github. Vou falar um pouco sobre mim. 
+-Estudante de Análise e Desenolvimento de Sistemas
+-Conhecimento de tecnlogias como Java, Java Script, Node Js, Python e C#
 
 
 <br/>
